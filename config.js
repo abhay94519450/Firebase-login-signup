@@ -1,10 +1,11 @@
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_AUTH_DOMAIN",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_STORAGE_BUCKET",
-    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-    appId: "YOUR_APP_ID",
-    measurementId: "YOUR_MEASUREMENT_ID"
+    apiKey: "AIzaSyAdMrcFDpKBsAE_mgMmzeuUcJHi1W4co1o",
+  authDomain: "inifibackojj.firebaseapp.com",
+  databaseURL: "https://inifibackojj-default-rtdb.firebaseio.com",
+  projectId: "inifibackojj",
+  storageBucket: "inifibackojj.appspot.com",
+  messagingSenderId: "317047502444",
+  appId: "1:215078169100:web:61f5a720a5ff127b645c29",
+  measurementId: "G-XWCJ1BKJY0""
 };
 export {firebaseConfig};
